@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Soccer Landing Page - Cristiano Ronaldo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A sleek, modern one-page React landing site showcasing Cristiano Ronaldo’s career highlights, achievements, and stats.
 
-## Available Scripts
+*
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- *Responsive Navbar* with active link styles and “Get Started” button  
+- *Hero Section* with bold typography, red accent colors, and dual call-to-action buttons  
+- *Player Image* with glowing red shadow effect  
+- *Career Stats* with icons below the hero  
+- Clean black background with spotlight effect for a dramatic feel
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. Clone this repo.  
+2. Run npm install to install dependencies.  
+3. Run npm start to launch the development server.  
+4. Visit http://localhost:3000 in your browser to see the site.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React  
+- CSS for layout and styling  
+- React Scripts for quick setup and development
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Folder Structure
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+/src  
+  |-- App.js          # Main React component with page layout  
+  |-- App.css         # Styles for the landing page  
+  |-- index.js        # Entry point  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Customization
 
-## Learn More
+- Update the player image link in App.js to change the photo.  
+- Modify stats array in App.js for your own stats and icons.  
+- Tweaks colors and font styles in App.css to suit your branding.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+*
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Screenshots
 
-### Code Splitting
+  
+(Your app preview here)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+*
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Open source, free to use and modify.
