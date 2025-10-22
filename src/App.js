@@ -5,8 +5,8 @@ import GetstartedButton from './components/Getstarted.Button';
 import ExploreButton from './components/Explore.Button';
 import WatchButton from './components/Watch.Button';
 import NavBar from './components/NavBar';
-import Footer from './components/Footer';
 import AboutRonaldo from './components/AboutRonaldo';
+import Footer from './components/Footer';
 import '@fortawesome/fontawesome-free/css/all.css';
 
 //Add fontawesome icons on the stats section

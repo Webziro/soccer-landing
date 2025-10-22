@@ -1,6 +1,5 @@
-// Renamed to 'export function' instead of 'export default function' (Line 69 fixed)
-
-function AboutRonaldo() {
+// This is now a default export, which is standard for single-component files.
+export default function AboutRonaldo() {
   return (
     <div style={{ padding: 40, background: '#222', marginTop: 30, borderRadius: 8 }}>
       <h2 style={{ color: '#b18d70', fontSize: 32, marginBottom: 15 }}>About Cristiano Ronaldo</h2>
@@ -9,5 +8,4 @@ function AboutRonaldo() {
       </p>
     </div>
   );
-}   
-export { AboutRonaldo };
+}
