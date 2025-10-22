@@ -64,3 +64,15 @@ export default function RonaldoProfile() {
   );
 }
 
+//About Christiano Ronaldo
+//Cristiano Ronaldo, born on February 5, 1985, in Funchal, Madeira, Portugal, is widely regarded as one of the greatest footballers of all time. Renowned for his incredible goal-scoring ability, athleticism, and versatility on the field, Ronaldo has won numerous awards and accolades throughout his illustrious career. He has played for top clubs such as Sporting CP, Manchester United, Real Madrid, and Juventus, consistently breaking records and leading his teams to victory in domestic leagues and international competitions. Off the pitch, Ronaldo is known for his philanthropy and business ventures, making him a global icon both in sports and beyond.
+export default function AboutRonaldo() {
+  return (
+    <div>
+      <h2>About Cristiano Ronaldo</h2>
+      <p>
+        Cristiano Ronaldo, born on February 5, 1985, in Funchal, Madeira, Portugal, is widely regarded as one of the greatest footballers of all time. Renowned for his incredible goal-scoring ability, athleticism, and versatility on the field, Ronaldo has won numerous awards and accolades throughout his illustrious career. He has played for top clubs such as Sporting CP, Manchester United, Real Madrid, and Juventus, consistently breaking records and leading his teams to victory in domestic leagues and international competitions. Off the pitch, Ronaldo is known for his philanthropy and business ventures, making him a global icon both in sports and beyond.
+      </p>
+    </div>
+  );
+}
